@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vLxJD60Xyj75eHUOEEawESUeHpQTGVIjdymLUQ/8Yhfzyy3AN3d3rI/1bcxrSEgL2/jtf/CTch98t9nOR5godg==",
+  "success": true,
+  "projectFilePath": "D:\\TareaCurso Prog1\\Domaain\\Domaain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samantha Nicoll\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\Samantha Nicoll\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+E:\Quezada\Download\Mo\TareaCurso\Domaain\bin\Debug\net5.0\Domaain.deps.json
+E:\Quezada\Download\Mo\TareaCurso\Domaain\bin\Debug\net5.0\Domaain.dll
+E:\Quezada\Download\Mo\TareaCurso\Domaain\bin\Debug\net5.0\ref\Domaain.dll
+E:\Quezada\Download\Mo\TareaCurso\Domaain\bin\Debug\net5.0\Domaain.pdb
+E:\Quezada\Download\Mo\TareaCurso\Domaain\obj\Debug\net5.0\Domaain.csproj.AssemblyReference.cache
+E:\Quezada\Download\Mo\TareaCurso\Domaain\obj\Debug\net5.0\Domaain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Quezada\Download\Mo\TareaCurso\Domaain\obj\Debug\net5.0\Domaain.AssemblyInfoInputs.cache
+E:\Quezada\Download\Mo\TareaCurso\Domaain\obj\Debug\net5.0\Domaain.AssemblyInfo.cs
+E:\Quezada\Download\Mo\TareaCurso\Domaain\obj\Debug\net5.0\Domaain.csproj.CoreCompileInputs.cache
+E:\Quezada\Download\Mo\TareaCurso\Domaain\obj\Debug\net5.0\Domaain.dll
+E:\Quezada\Download\Mo\TareaCurso\Domaain\obj\Debug\net5.0\ref\Domaain.dll
+E:\Quezada\Download\Mo\TareaCurso\Domaain\obj\Debug\net5.0\Domaain.pdb
+C:\Users\BENDICCION\Downloads\TareaCurso-Prueba (2)\TareaCurso-Prueba\Domaain\bin\Debug\net5.0\Domaain.deps.json
+C:\Users\BENDICCION\Downloads\TareaCurso-Prueba (2)\TareaCurso-Prueba\Domaain\bin\Debug\net5.0\Domaain.dll
+C:\Users\BENDICCION\Downloads\TareaCurso-Prueba (2)\TareaCurso-Prueba\Domaain\bin\Debug\net5.0\ref\Domaain.dll
+C:\Users\BENDICCION\Downloads\TareaCurso-Prueba (2)\TareaCurso-Prueba\Domaain\bin\Debug\net5.0\Domaain.pdb
+C:\Users\BENDICCION\Downloads\TareaCurso-Prueba (2)\TareaCurso-Prueba\Domaain\obj\Debug\net5.0\Domaain.csproj.AssemblyReference.cache
+C:\Users\BENDICCION\Downloads\TareaCurso-Prueba (2)\TareaCurso-Prueba\Domaain\obj\Debug\net5.0\Domaain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BENDICCION\Downloads\TareaCurso-Prueba (2)\TareaCurso-Prueba\Domaain\obj\Debug\net5.0\Domaain.AssemblyInfoInputs.cache
+C:\Users\BENDICCION\Downloads\TareaCurso-Prueba (2)\TareaCurso-Prueba\Domaain\obj\Debug\net5.0\Domaain.AssemblyInfo.cs
+C:\Users\BENDICCION\Downloads\TareaCurso-Prueba (2)\TareaCurso-Prueba\Domaain\obj\Debug\net5.0\Domaain.csproj.CoreCompileInputs.cache
+C:\Users\BENDICCION\Downloads\TareaCurso-Prueba (2)\TareaCurso-Prueba\Domaain\obj\Debug\net5.0\Domaain.dll
+C:\Users\BENDICCION\Downloads\TareaCurso-Prueba (2)\TareaCurso-Prueba\Domaain\obj\Debug\net5.0\ref\Domaain.dll
+C:\Users\BENDICCION\Downloads\TareaCurso-Prueba (2)\TareaCurso-Prueba\Domaain\obj\Debug\net5.0\Domaain.pdb
+D:\TareaCurso Prog1\Domaain\bin\Debug\net5.0\Domaain.deps.json
+D:\TareaCurso Prog1\Domaain\bin\Debug\net5.0\Domaain.dll
+D:\TareaCurso Prog1\Domaain\bin\Debug\net5.0\ref\Domaain.dll
+D:\TareaCurso Prog1\Domaain\bin\Debug\net5.0\Domaain.pdb
+D:\TareaCurso Prog1\Domaain\obj\Debug\net5.0\Domaain.csproj.AssemblyReference.cache
+D:\TareaCurso Prog1\Domaain\obj\Debug\net5.0\Domaain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TareaCurso Prog1\Domaain\obj\Debug\net5.0\Domaain.AssemblyInfoInputs.cache
+D:\TareaCurso Prog1\Domaain\obj\Debug\net5.0\Domaain.AssemblyInfo.cs
+D:\TareaCurso Prog1\Domaain\obj\Debug\net5.0\Domaain.csproj.CoreCompileInputs.cache
+D:\TareaCurso Prog1\Domaain\obj\Debug\net5.0\Domaain.dll
+D:\TareaCurso Prog1\Domaain\obj\Debug\net5.0\ref\Domaain.dll
+D:\TareaCurso Prog1\Domaain\obj\Debug\net5.0\Domaain.pdb
